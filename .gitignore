@@ -1,8 +1,4 @@
-*.py[cod]
-
-test.db
-test.txt
-sina.html
+ml
 
 # C extensions
 *.so
